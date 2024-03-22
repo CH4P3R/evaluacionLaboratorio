@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1711038956 source:c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1711038956 c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\include\cliente.h
+	<string.h>
+	<iostream>
+
+1711134881 source:c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\main.cpp
+	<iostream>
+	<stdint.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Prestamo.h"
+	"Pago.h"
+	"stdlib.h"
+
+1711039190 c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\include\fecha.h
+
+1711039166 source:c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711040267 source:c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\src\pago.cpp
+	"Pago.h"
+
+1711040295 c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\include\pago.h
+	"Fecha.h"
+
+1711113132 source:c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711042021 c:\users\carlo\onedrive\escritorio\viernes tarea\evaluacionviernes\include\prestamo.h
+	"Fecha.h"
+	"Pago.h"
+	"Cliente.h"
+
